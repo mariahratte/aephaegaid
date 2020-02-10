@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiquaezoof.horseboxpainting.com/sitemap.xml
